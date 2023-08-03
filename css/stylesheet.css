@@ -617,4 +617,10 @@ footer .container .row:nth-of-type(2) {
         width: 30px;
         height: 30px;
     }
+        .shop #slidebox .slide{
+        width: 100%;
+    }
+    .shop #slidebox {
+        justify-content: center;
+    }
 }
